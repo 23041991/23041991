@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @23041991
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dr Meenakhsi singh
+- 👀 I’m interested in cancer chemistry
+- 🌱 I’m currently learning various aspect to target cancer protein
+- 💞️ I’m looking to collaborate on cancer biology lab
+- 📫 How to reach me 
 
 <!---
 23041991/23041991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
